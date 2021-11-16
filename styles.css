@@ -1,0 +1,85 @@
+body{background-color: #D7BDE2 ;}
+p{
+  color: orange;
+  background-image: url(https://images.wallpaperscraft.ru/image/single/olen_planeta_art_129712_1920x1080.jpg);
+  font-family: sans-serif;
+}
+img{
+  width: 600px;
+}
+h1{
+
+  color: green;
+  background-color: #F5CBA7;
+  padding: 10px;
+   border: 1px solid black;
+}
+h2{
+  text-align: center;
+  font-weight: lighter;
+  font-family: Arial;
+}
+hr {
+  text-align: center;
+border: none;
+border-top: 12px dotted red;
+background-color: #D7BDE2 ;
+width: 6%;
+}
+ul{
+  font-family: fantasy;
+  color: #1F618D;
+}
+.p1{
+  text-align: center;
+  color: orange;
+  background-image: url(https://images.wallpaperscraft.ru/image/single/olen_planeta_art_129712_1920x1080.jpg);
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+.p2 {
+  text-align: center;
+    height: 150px;
+  vertical-align: middle;
+    color: #AF7AC5  ;
+    line-height: 35px;
+    background-image: url(https://images.wallpaperscraft.ru/image/single/abstraktsiya_svet_neon_blesk_97687_300x168.jpg);
+      font-family: fantasy;
+
+
+
+}
+.p3{
+    color: orange;
+    background-image: url(https://images.wallpaperscraft.ru/image/single/drakon_klassika_svet_blesk_poverhnost_fon_16050_300x168.jpg);
+    width: inherit;
+    text-align: center;
+    font-variant: small-caps;
+    font-weight: bold;
+
+
+}
+.td1{
+  text-align: center;
+  width: 100%;
+}
+.table1{
+width: 100%;
+}
+.table2{
+  width: 100%;
+
+}
+.table3{
+  font-family: monospace;
+  background-color: #f5deb3;
+  border-spacing: 5px;
+}
+#skills{
+  text-align: left;
+
+}
+#contact{
+  text-align: center;
+  text-decoration: line-through;
+}
